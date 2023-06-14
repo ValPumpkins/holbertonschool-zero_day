@@ -7,13 +7,8 @@
 </ol>
 <h2>Requirements</h2>
 <ul>
-<li>Allowed editors: vi, vim, emacs</li>
-<li>All your scripts will be tested on Ubuntu 20.04 LTS</li>
-<li>All your scripts should be exactly two lines long ($ wc -l file should print 2)</li>
-<li>All your files should end with a new line</li>
-<li>The first line of all your files should be exactly #!/bin/bash</li>
 <li>A README.md file at the root of the repo, containing a description of the repository</li>
-<li>A README.md file, at the root of the folder of this project, describing what each script is doing</li>
-<li>You are not allowed to use backticks, &&, || or ; </li>
-<li>All your scripts must be executable. To make your file executable, use the chmod command: chmod u+x file.</li>
+<li>A README.md file, at the root of the folder of this project (i.e. git), describing what this project is about</li>
+<li>Do not use GitHub’s web UI, but the command line to perform the exercise (except for operations that can not possibly be done any other way than through the web UI). You won’t be able to perform many of the task requirements on the web UI, and you should start getting used to the command line for simple tasks because many complex tasks can only be done via the command line.</li>
+<li>Your answer files should only contain the command, and nothing else</li>
 </ul>
